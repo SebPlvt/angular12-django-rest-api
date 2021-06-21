@@ -1,1 +1,1 @@
-# angular12-django-rest-api
+# angular12-python-django-rest-api
